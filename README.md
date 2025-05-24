@@ -38,7 +38,6 @@ student-performance-analysis/
 ├── src/
 │   └── StudentPerformanceAnalysis.java
 ├── README.md
-└── .gitignore
 ```
 
 ## 📌 License
